@@ -3,7 +3,7 @@
 オンラインサービス
 
 - netfabb (Autodesk??)  
-- 3D Tools (microsoft)  
+- 3D Tools (Microsoft)  
 
 ---
 
@@ -29,7 +29,7 @@ google login で使える。
 
 ---  
 
-#### 3D Tools (microsoft)  
+#### 3D Tools (Microsoft)  
 
 [https://tools3d.azurewebsites.net/](https://tools3d.azurewebsites.net/)  
 
@@ -39,7 +39,14 @@ google login で使える。
 
 Convert の Converts an STL/OBJ/VRML file to a 3MF file. は、フルカラー 3D プリント向けのフォーマット 3MF のやつかな。  
 
+試しにやってみた repair が終わらないので検証 X です。  
 
+
+(ここから引用)  
+Microsoftは、オートデスク、HP（ヒューレット・パッカード）、Shapeways、ダッソー・システムズ、netFabb、SLMソリューション等と共に、新しいファイルフォーマット「.3MF」開発のため3MFコンソーシアムと呼ばれる共同開発団体を設立しました。  
+
+この3MFコンソーシアムが開発する新しいファイルフォーマット「.3MF」形式は、旧来のCADフォーマット（STL等）のファイルフォーマットとは異なり、3Dモデル、カラー、その他の特性を記述した全ての情報を一つのアーカイブ内に含め、データをPNGやJPEGのように人が認識できるファイルに変換。  
+(ここまで引用（[http://idarts.co.jp/3dp/microsoft-3mf-hololens/](http://idarts.co.jp/3dp/microsoft-3mf-hololens/)   より）)  
 
 
 
@@ -84,4 +91,14 @@ Open Mesh は、fillHole 系の コマンドか、Brep の段階で、cap/capEx 
 (自分用に、自分で作るモデルがそういうもの多いようだったら作る)  
 
 Invalid のほうは、正直よくわからないが、  
-Brep の時は、 Explode して、 Invalid な Surface を特定してそれだけ作り直す、くらいしかわからない。
+Brep の時は、 Explode して、 Invalid な Surface を特定してそれだけ作り直す、くらいしかわからない。  
+
+大事なときに炎上しないように、この辺頑張りたい。  
+
+
+---  
+
+
+全然関係ないけど、  
+repair する前/した後の STL を git の差分で見ようとしたら、バイナリのなんとかで、見れず。  
+github では普通に、3D の preview できた。  
