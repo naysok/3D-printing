@@ -1,5 +1,16 @@
-3d プリントに向けての STL ファイルの修復  
+## 3d プリントに向けての STL ファイルの修復  
 
+
+#### netfabb  
+同名の Autodesk の有料サービスがあるが、こっちは無料。  
+google login で使える。  
+
+[https://service.netfabb.com/login.php](https://service.netfabb.com/login.php)  
+
+データによって、アップロードエラーが出る。  
+（アップロードエラーがでたものを、DMM.Make などに投げると、造形可能と帰ってくるので、破損しているとかとは違うっぽい）  
+
+手元に破損した都合の良い STL がなかったので、検証してません。。。  
 
 
 
