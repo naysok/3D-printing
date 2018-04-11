@@ -1,6 +1,9 @@
 ## 3D printing あれこれ  
 
-苦労したこと、失敗したこと、聞いたこと、聞かれたこと、ざっくり。
+180219 -  
+
+時間のあるときに何か学んだときに、少しずつ書きます。  
+個人用の覚え書きです。間違ってたらごめんね。  
 
 
 ---  
@@ -18,11 +21,4 @@ repair-stl.md（
 #### メッシュの計測について  
 MiniMagics.md（
 [https://github.com/naysok/3D-printing/blob/master/MiniMagics.md](https://github.com/naysok/3D-printing/blob/master/MiniMagics.md) ）  
-
----  
-
-180219 -  
-
-時間のあるときに何か学んだときに、少しずつ書きます。  
-覚え書きです。間違ってたらごめんね。  
 

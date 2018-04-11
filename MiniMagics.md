@@ -1,27 +1,36 @@
 すこしデータチェックできるソフト  
 
-Materialise MiniMagics  
+### Materialise MiniMagics  
 
-Win のみで、フリーソフト  
+Win のみ、フリーソフト  
 
 ---  
 
-STLファイル閲覧、寸法測定、エラー箇所表示など、基礎的な3Dプリント用データ準備を可能にするフリーウェア Materialise MiniMagics。3Dプリントサービス利用前にSTLファイルのエラー有無を調べる際にも最適です。
+STLファイル閲覧、寸法測定、エラー箇所表示など、基礎的な3Dプリント用データ準備を可能にするフリーウェア Materialise MiniMagics。3Dプリントサービス利用前にSTLファイルのエラー有無を調べる際にも最適です。  
 
-[http://www.materialise.com/ja/software/minimagics](http://www.materialise.com/ja/software/minimagics)  
+（公式サイトより（
+[http://www.materialise.com/ja/software/minimagics](http://www.materialise.com/ja/software/minimagics)  ））
+
+（パーツが造形可能か検証という言葉と、ノギスの写真があるので、肉厚とかも測れそうなのだけど、細かくはまだ見てない）  
+![photo](src/Mini-01.png)  
 
 ---  
 
 ##### 2点間の距離計測  
 
+
 ![photo](src/180410-02.jpg)  
 
 ![photo](src/180410-01.jpg)  
 
+
+
 ##### エラーチェック  
-(エラー修正は有料っぽい)  
+(エラー修正は、別サービスに飛んでそれは有料っぽい)  
 
 ![photo](src/180410-03.jpg)  
+
+
 
 ##### Rhino の Dim コマンド  
 
@@ -30,6 +39,9 @@ STLファイル閲覧、寸法測定、エラー箇所表示など、基礎的�
 ---  
 
 自分の手元の環境であれば、  
-スライサは、repetier-host と XYZ ware と、それに比べたら、寸法測れるだけ、MiniMagics の方が優れてるって感じ、、  
+STL を開けるソフトと、スライサは、 repetier-host と XYZ ware くらいなので、  
+その辺に比べたら、寸法測れる分 MiniMagics の方が多少優れてるって感じ、、  
 
-ちゃんと計測したければ、 Rhinoceros でやったほうがいいや、と思ったりします。  
+いいスライサがあれば、多分それで、計測、データチェックから、スライスできるので、普通にそれで済みそう。  
+
+本当にちゃんと計測したければ、 Rhinoceros でやったほうがいいや、と思ったりします。  
