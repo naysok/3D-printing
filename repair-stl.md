@@ -73,6 +73,7 @@ invalid mesh → closed mesh （できてくれたら嬉しい）
 
 ---  
 
+
 あとは、個人的になんども苦労する Rhino でのこと。  
 
 Rhino で、Open Mesh をどう処理するのが正解か結構よくわからない。  
@@ -91,7 +92,13 @@ Open Mesh は、fillHole 系の コマンドか、Brep の段階で、cap/capEx 
 (自分用に、自分で作るモデルがそういうもの多いようだったら作る)  
 
 Invalid のほうは、正直よくわからないが、  
-Brep の時は、 Explode して、 Invalid な Surface を特定してそれだけ作り直す、くらいしかわからない。  
+Brep の時は、 Explode して、 Invalid な Surface を特定してそれだけ作り直す、くらいしかわからない。
+
+昔、小野さんに聞いたときにもらったのはこの方法。  
+Explode して Join すると、Invalid ナサーフェスだけ残る。  
+
+![photo](src/BrepTest.jpg)  
+
 
 大事なときに炎上しないように、この辺頑張りたい。  
 
