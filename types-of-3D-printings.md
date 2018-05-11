@@ -1,13 +1,13 @@
 ## 主な 3D プリントの種類  
 
-- FDM 方式（Fused Deposition Modeling, 熱溶解積層法）
-- 光造形法
-- SLS 方式（Selective Laser Sintering, 粉末焼結積層法）
+- FDM 方式（Fused Deposition Modeling, 熱溶解積層法）  
+- SLA 方式（Stereolithography, 光造形法）  
+- SLS 方式（Selective Laser Sintering, 粉末焼結積層法）  
 
 ---  
 
 
-##### FDM方式（Fused Deposition Modeling, 熱溶解積層法）
+##### FDM 方式（Fused Deposition Modeling, 熱溶解積層法）
 
 ABS/PLA 樹脂を、200度超えるくらいに温めて溶かし、ソフトクリームのように積む  
 
@@ -16,7 +16,7 @@ ABS/PLA 樹脂を、200度超えるくらいに温めて溶かし、ソフトク
 データ持ち込みで、プリントできる店舗派いくつかあるけど、 1000 yen/h 程度（iPhone ケースくらい）  
 
 
-##### SLA 方式（Stereolithography 光造形法）  
+##### SLA 方式（Stereolithography, 光造形法）  
 
 タンクに入ったレジンに光を当てて硬化させる。  
 
