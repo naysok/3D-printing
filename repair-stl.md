@@ -1,4 +1,4 @@
-## 3d プリントに向けての STL ファイルの修復  
+# 3D プリントに向けての STL ファイルの修復  
 
 オンラインサービス
 
@@ -8,7 +8,7 @@
 ---
 
 
-#### netfabb  
+### netfabb  
 
 [https://service.netfabb.com/login.php](https://service.netfabb.com/login.php)    
 
@@ -29,7 +29,7 @@ google login で使える。
 
 ---  
 
-#### 3D Tools (Microsoft)  
+### 3D Tools (Microsoft)  
 
 [https://tools3d.azurewebsites.net/](https://tools3d.azurewebsites.net/)  
 

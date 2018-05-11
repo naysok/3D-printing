@@ -1,4 +1,4 @@
-## 3D Printing あれこれ  
+# 3D Printing あれこれ  
 
 180219 -  
 
@@ -8,17 +8,15 @@
 
 ---  
 
-#### 造形方式について  
-types-of-3D-printing.md（
-[https://github.com/naysok/3D-printing/blob/master/types-of-3D-printings.md](https://github.com/naysok/3D-printing/blob/master/types-of-3D-printings.md) ）  
+### 造形方式について  
+types-of-3D-printing.md（ [https://github.com/naysok/Study-3D-Printing/blob/master/types-of-3D-printings.md](https://github.com/naysok/Study-3D-Printing/blob/master/types-of-3D-printings.md) ）  
 
 
-#### メッシュの修復について  
-repair-stl.md（
-[https://github.com/naysok/3D-printing/blob/master/repair-stl.md](https://github.com/naysok/3D-printing/blob/master/repair-stl.md) ）  
+### メッシュの修復について  
+repair-stl.md（ [https://github.com/naysok/Study-3D-Printing/blob/master/repair-stl.md](https://github.com/naysok/Study-3D-Printing/blob/master/repair-stl.md) ）  
 
 
-#### メッシュの計測について  
+### メッシュの計測について  
 MiniMagics.md（
-[https://github.com/naysok/3D-printing/blob/master/MiniMagics.md](https://github.com/naysok/3D-printing/blob/master/MiniMagics.md) ）  
+[https://github.com/naysok/Study-3D-Printing/blob/master/MiniMagics.md](https://github.com/naysok/Study-3D-Printing/blob/master/MiniMagics.md) ）  
 
